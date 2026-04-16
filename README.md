@@ -1,4 +1,4 @@
-# Hi, I'm San Saad
+# Hi, I'm San
 
 Cybersecurity student focused on Security Operations, threat detection, and automation.
 
