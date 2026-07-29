@@ -8,6 +8,9 @@ Currently studying Cybersecurity Engineering and building hands-on security labs
 
 ## Projects
 
+## Honeypot + Cowrie
+This project demonstrates a cybersecurity home lab that captures and analyzes SSH attack activity using a Cowrie honeypot, Wireshark packet capture, and Python log analysis.
+
 ### SOC Automation Homelab
 Built a simulated SOC pipeline using Wazuh SIEM, Sysmon telemetry, Shuffle SOAR automation, VirusTotal threat intelligence, and TheHive incident response platform.
 
