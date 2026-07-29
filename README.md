@@ -14,8 +14,6 @@ Built a simulated SOC pipeline using Wazuh SIEM, Sysmon telemetry, Shuffle SOAR 
 ### Intel Sustainability SQL Analysis
 Performed SQL data analysis on repurposed device datasets to quantify energy savings and CO₂ reduction.
 
-### Velocity Finder
-Collaborated with a team to design a wearable ankle device that measures soccer kick velocity.
 
 ---
 
